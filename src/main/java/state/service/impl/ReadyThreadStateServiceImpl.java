@@ -4,8 +4,7 @@ import state.service.ThreadExecutor;
 import state.service.ThreadStateService;
 
 /**
- * 〈一句话功能简述〉<br>
- * 〈功能详细描述〉
+ * 〈状态实现接口
  *
  * @author wanghu
  * @see [相关类/方法]（可选）
